@@ -1,0 +1,19 @@
+{
+  "name": "wei-to-eth-gwei",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "0xManuel",
+  "license": "ISC",
+  "keywords": [
+    "eth",
+    "gwei",
+    "wei",
+    "javascript",
+    "coverter",
+    "ethereum"
+  ],
+  "description": "You can use this to convert wei to gwei and wei to ethereum (vice versa)"
+}
